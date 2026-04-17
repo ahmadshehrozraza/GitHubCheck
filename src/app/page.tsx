@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className=" w-full ">
 
-        <main className="">
+        <main className="mt-2">
           <LandingPage />
 
         </main>
